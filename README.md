@@ -8,7 +8,7 @@ Installs Rails in the official `ruby:2.2` container.
 * Coffee and a few minutes ;)
 
 ## Results
-![](http://cloud.mariouher.com/image/241M3s2O3T2c/Image%202015-05-23%20at%204.52.03%20pm.png)
+![](http://cloud.mariouher.com/image/0L2n442J0w2A/Image%202015-05-23%20at%206.08.09%20pm.png)
 ```sh
 real  8m51.197s
 user  0m0.709s
