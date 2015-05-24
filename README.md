@@ -17,7 +17,7 @@ sys   0m0.092s
 
 ![](http://cloud.mariouher.com/image/2j380E2L0u3V/Image%202015-05-23%20at%206.05.34%20pm.png)
 ```sh
-real  12m16.401s
-user  0m0.960s
-sys   0m0.082s
+real  11m0.105s
+user  0m0.937s
+sys   0m0.091s
 ```
